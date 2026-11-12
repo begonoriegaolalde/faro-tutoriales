@@ -1,0 +1,47 @@
+name: Actualizar manifiesto de Cartas del Padre
+
+# Corre el scraper de .github/scripts/cartas-padre-scraper (ver su README) y publica
+# cartas_padre_manifest.json EN LA RAÍZ de este repo (público) si encontró algo distinto a lo ya
+# commiteado. La app lo lee sin token vía raw.githubusercontent.com en su sync diario/al abrir
+# (ver CartasPadreManifestRemoto.kt en FaroMultiplataforma).
+on:
+  workflow_dispatch: {}
+  schedule:
+    # 07:00 UTC — después de la medianoche en España/Europa y antes de la mañana en América.
+    - cron: '0 7 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Instalar dependencias
+        working-directory: .github/scripts/cartas-padre-scraper
+        run: |
+          npm init -y
+          npm install playwright
+          npx playwright install --with-deps chromium
+
+      - name: Correr scraper
+        run: |
+          node .github/scripts/cartas-padre-scraper/scrape.mjs cartas_padre_manifest.json
+
+      - name: Commitear si cambió
+        run: |
+          git add cartas_padre_manifest.json
+          if git diff --cached --quiet; then
+            echo "Sin cambios en el manifiesto."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: actualizar manifiesto de Cartas del Padre [automated]"
+          git push

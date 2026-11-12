@@ -1,0 +1,492 @@
+{
+  "generatedAt": "2026-11-12T15:51:01.343Z",
+  "cartas": [
+    {
+      "clave": "https://opusdei.org/it-it/article/lettera-pastorale-del-prelato-4-giugno-2017/",
+      "asignarCarpeta": true,
+      "variantes": {
+        "it": {
+          "titulo": "Lettera del prelato (4 giugno 2017)",
+          "urlDescarga": "https://multimedia.opusdei.org/docs/Lettera-giugno-17-it_20170604105848463722.pdf",
+          "extension": "pdf"
+        },
+        "pl": {
+          "titulo": "List od Prałata (4 czerwca 2017 r.)",
+          "urlDescarga": "https://multimedia.opusdei.org/docs/List-4_20170603123501763277.pdf",
+          "extension": "pdf"
+        }
+      }
+    },
+    {
+      "clave": "https://opusdei.org/es-mx/article/carta-prelado-opus-dei-obediencia/",
+      "asignarCarpeta": true,
+      "variantes": {
+        "es": {
+          "titulo": "Carta del Prelado (10 febrero 2024) | Obediencia",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/pdf/Carta%20del%20Prelado%2010%20febrero%20202420240208092633331015.pdf",
+          "extension": "pdf"
+        },
+        "en": {
+          "titulo": "Letter from the Prelate (10 February 2024) | Christian Obedience",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/epub/pastoral-letter%20((Christian%20obedience)20250121013423653276.epub",
+          "extension": "epub"
+        },
+        "fr": {
+          "titulo": "Lettre du Prélat (10 février 2024) | Sur l'obéissance",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/epub/Lettre%2010%20fevrier%202024%20-%20Mgr%20Fernando%20Ocariz20240207115922759285.epub",
+          "extension": "epub"
+        },
+        "it": {
+          "titulo": "Lettera del prelato (10 febbraio 2024) | Obbedienza",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/epub/lettera-pastorale20240220122246496940.epub",
+          "extension": "epub"
+        },
+        "nl": {
+          "titulo": "Brief van de prelaat (10 februari 2024) Gehoorzaamheid",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/pdf/Pastorale_brief_van_de_prelaat_10%20febr.%20202420240210150525754043.pdf",
+          "extension": "pdf"
+        },
+        "pt-br": {
+          "titulo": "Carta do Prelado (10 fevereiro 2024) | Obediência",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/epub/Carta%20pastoral%20-%20Mons.%20Fernando%20Ocariz20240225192734963642.epub",
+          "extension": "epub"
+        }
+      }
+    },
+    {
+      "clave": "https://opusdei.org/es-mx/article/carta-prelado-opus-dei-fraternidad/",
+      "asignarCarpeta": true,
+      "variantes": {
+        "es": {
+          "titulo": "Carta del Prelado (16 febrero 2023) | Fraternidad",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/epub/Carta%20prelado%20opus%20dei%20fraternidad%20%7C%2016%20febrero%20202320230215083616823426.epub",
+          "extension": "epub"
+        },
+        "en": {
+          "titulo": "Letter from the Prelate (16 February 2023) | Fraternity",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/epub/pastoral-letter%20(fraternity)20250121015455409411.epub",
+          "extension": "epub"
+        },
+        "it": {
+          "titulo": "Lettera del prelato (16 febbraio 2023) | Fraternità",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/epub/lettera-pastorale20230220110334128179.epub",
+          "extension": "epub"
+        },
+        "nl": {
+          "titulo": "Brief van de prelaat (16 februari 2023): Broederlijkheid",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/pdf/brief_van_de_prelaat_16_februari_202320230224144500408064.pdf",
+          "extension": "pdf"
+        },
+        "pt-br": {
+          "titulo": "Carta do Prelado (16 fevereiro 2023) | Fraternidade",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/epub/Carta%20pastoral%20-%20Mons.%20Fernando%20Ocariz20230311233217443496.epub",
+          "extension": "epub"
+        }
+      }
+    },
+    {
+      "clave": "https://opusdei.org/es-mx/article/carta-prelado-opus-dei-contemplacion/",
+      "asignarCarpeta": true,
+      "variantes": {
+        "es": {
+          "titulo": "Carta del Prelado (16 octubre 2026) | Contemplación",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/epub/Carta_contemplacion_Fernando_Oc%C3%A1riz_2026_v220261017081515249109.epub",
+          "extension": "epub"
+        },
+        "en": {
+          "titulo": "Letter from the Prelate (16 October 2026) | Contemplation",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/epub/Carta_contemplacion_Fernando_Oca%CC%81riz_202620261015142003878525.epub",
+          "extension": "epub"
+        },
+        "fr": {
+          "titulo": "Lettre du Prélat (16 octobre 2026) | Contemplation",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/epub/Lettre%20pastorale%20sur%20la%20contemplation%20-%20Don%20Fernando%20Ocariz20261014214655547966.epub",
+          "extension": "epub"
+        },
+        "nl": {
+          "titulo": "Brief van de prelaat (16 oktober 2026) | Contemplatie",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/pdf/brief-over-de-contemplatie20261018203923952744.pdf",
+          "extension": "pdf"
+        },
+        "pt-br": {
+          "titulo": "Carta do Prelado (16 outubro 2026) | Contemplação",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/epub/Carta_sobre_a_contemplac%CC%A7a%CC%83o20261016104522027129.epub",
+          "extension": "epub"
+        }
+      }
+    },
+    {
+      "clave": "https://opusdei.org/es-mx/article/carta-prelado-opus-dei-alegria/",
+      "asignarCarpeta": true,
+      "variantes": {
+        "es": {
+          "titulo": "Carta del Prelado (10 marzo 2025) | Alegría",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/epub/Carta%20sobre%20la%20alegr%C3%ADa20250308112519356421.epub",
+          "extension": "epub"
+        },
+        "en": {
+          "titulo": "Letter from the Prelate (10 March 2025) | Joy",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/epub/pastoral-letter%20(joy)20250310002232115228.epub",
+          "extension": "epub"
+        },
+        "fr": {
+          "titulo": "Lettre du Prélat (10 mars 2025) | Sur la joie",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/epub/Lettre%20du%20Prelat%20sur%20la%20joie%20-%20Mgr%20Fernando%20Ocariz20250310213232656427.epub",
+          "extension": "epub"
+        },
+        "it": {
+          "titulo": "Lettera del prelato (10 marzo 2025) | Gioia",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/epub/lettera-del-prelato-gioia20250309230712471298.epub",
+          "extension": "epub"
+        },
+        "nl": {
+          "titulo": "Brief van de Prelaat (10 maart 2025) | Vreugde",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/pdf/brief%20van%20de%20prelaat%20(10%20maart%202025)20250314193657249349.pdf",
+          "extension": "pdf"
+        },
+        "pt-br": {
+          "titulo": "Carta do Prelado (10 março 2025) | Alegria",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/epub/Carta%20pastoral%20-%20Mons.%20Fernando%20Ocariz20250310144336301231.epub",
+          "extension": "epub"
+        }
+      }
+    },
+    {
+      "clave": "https://opusdei.org/es-mx/article/carta-pastoral-prelado-opus-dei-9-enero-2018/",
+      "asignarCarpeta": true,
+      "variantes": {
+        "es": {
+          "titulo": "Carta del Prelado (9 enero 2018) | Libertad",
+          "urlDescarga": "https://multimedia.opusdei.org/epub/es/carta-prelado-opus-dei-9-enero-2018.epub",
+          "extension": "epub"
+        },
+        "en": {
+          "titulo": "Letter from the Prelate (9 January 2018) | Freedom",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/epub/pastoral-letter%20(freedom)20250121030141753041.epub",
+          "extension": "epub"
+        },
+        "fr": {
+          "titulo": "Lettre du Prélat (9 janvier 2018) | Sur la liberté",
+          "urlDescarga": "https://odnmedia.s3.amazonaws.com/files/Lettre%20pastorale%20Mgr%20Oc%C3%A1riz%20-%209%20janvier%20201820201117-140059.epub",
+          "extension": "epub"
+        },
+        "it": {
+          "titulo": "Lettera pastorale (9 gennaio 2018)",
+          "urlDescarga": "https://odnmedia.s3.amazonaws.com/files/lettera-del-prelato-9-gennaio-201820180412-104311.epub",
+          "extension": "epub"
+        },
+        "nl": {
+          "titulo": "Brief van de prelaat (9 januari 2018): Vrijheid",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/epub/Epub%20brief-van-de-prelaat-9-januari-201820260423123400654132.epub",
+          "extension": "epub"
+        },
+        "pt-br": {
+          "titulo": "Carta do Prelado (9 janeiro 2018) | Liberdade",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/epub/carta-pastoral-prelado-opus-dei-9-janeiro-201820251109130347240177.epub",
+          "extension": "epub"
+        }
+      }
+    },
+    {
+      "clave": "https://opusdei.org/es-mx/article/carta-pastoral-amistad-prelado-opus-dei/",
+      "asignarCarpeta": true,
+      "variantes": {
+        "es": {
+          "titulo": "Carta del prelado (1 noviembre 2019) | Amistad",
+          "urlDescarga": "https://multimedia.opusdei.org/docs/Carta-prelado-amistad_20191108101928994039.pdf",
+          "extension": "pdf"
+        },
+        "en": {
+          "titulo": "Letter from the Prelate (1 November 2019) | Friendship",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/epub/pastoral-letter%20(friendship)20250121025249758685.epub",
+          "extension": "epub"
+        },
+        "it": {
+          "titulo": "Lettera pastorale (1 novembre 2019)",
+          "urlDescarga": "https://multimedia.opusdei.org/docs/lettera-del-prelato-1-novembre-2019_20191121093709950977.pdf",
+          "extension": "pdf"
+        },
+        "nl": {
+          "titulo": "Brief van de prelaat (1 november 2019): Vriendschap en vertrouwen",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/pdf/Brief_Vader_1_nov_2019_voor_web_v220220711192824365441.pdf",
+          "extension": "pdf"
+        },
+        "pt-br": {
+          "titulo": "Carta do Prelado (1 novembro 2019) | Amizade",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/epub/carta-pastoral-amizade-prelado-opus-dei-nov-201920251109130136341340.epub",
+          "extension": "epub"
+        }
+      }
+    },
+    {
+      "clave": "https://opusdei.org/es-mx/article/carta-pastoral-28-octubre-2020-vocacion-opus-dei/",
+      "asignarCarpeta": true,
+      "variantes": {
+        "es": {
+          "titulo": "Carta del Prelado (28 octubre 2020) | Vocación al Opus Dei",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/epub/carta-del-prelado-28-octubre-202020211124112117586211.epub",
+          "extension": "epub"
+        },
+        "en": {
+          "titulo": "Letter from the Prelate (28 October 2020) | Vocation",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/epub/pastoral-letter%20(vocation%20to%20Opus%20Dei)20250121022320024434.epub",
+          "extension": "epub"
+        },
+        "fr": {
+          "titulo": "Lettre du Prélat (28 octobre 2020) | La vocation à l'Opus Dei",
+          "urlDescarga": "https://odnmedia.s3.amazonaws.com/files/Lettre%20pastorale%20Mgr%20Oc%C3%A1riz%20-%2028%20octobre%20202020201117-135153.epub",
+          "extension": "epub"
+        },
+        "it": {
+          "titulo": "Lettera pastorale (28 ottobre 2020)",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/pdf/lettera-del-prelato-28-ottobre-2020-ok20220727092208107496.pdf",
+          "extension": "pdf"
+        },
+        "nl": {
+          "titulo": "Brief van de prelaat (28 oktober 2020): Roeping tot het Opus Dei",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/epub/Epub%20brief-van-de-prelaat-28-oktober-202020260423121817203077.epub",
+          "extension": "epub"
+        },
+        "pt-br": {
+          "titulo": "Carta do Prelado (28 outubro 2020) | A vocação ao Opus Dei",
+          "urlDescarga": "https://odnmedia.s3.amazonaws.com/files/carta-pastoral-opus-dei-outubro-202020201216-001907.epub",
+          "extension": "epub"
+        }
+      }
+    },
+    {
+      "clave": "https://opusdei.org/es-mx/article/carta-del-prelado-19-marzo-2022-fidelidad/",
+      "asignarCarpeta": true,
+      "variantes": {
+        "es": {
+          "titulo": "Carta del Prelado (19 marzo 2022) | Fidelidad",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/epub/Carta%20del%20Prelado%2019-III-202220220325122755147124.epub",
+          "extension": "epub"
+        },
+        "en": {
+          "titulo": "Letter from the Prelate (19 March 2022) | Fidelity",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/epub/pastoral-letter%20(fidelity)20250121020857631591.epub",
+          "extension": "epub"
+        },
+        "fr": {
+          "titulo": "Lettre du Prélat (19 mars 2022) | Sur la fidélité",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/epub/Lettre%20du%20Prelat%20sur%20la%20fidelit%20-%20Mgr%20Fernando%20Ocariz20250316181452603613.epub",
+          "extension": "epub"
+        },
+        "it": {
+          "titulo": "Lettera del prelato (19 marzo 2022) | Fedeltà",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/epub/lettera-del-prelato-19-marzo-2022-fedelta20220329103409237810.epub",
+          "extension": "epub"
+        },
+        "nl": {
+          "titulo": "Brief van de prelaat (19 maart 2022): Trouw",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/epub/epub%20brief-van-de-prelaat-19-maart-2022-20220411144822989829.epub",
+          "extension": "epub"
+        },
+        "pt-br": {
+          "titulo": "Carta do Prelado (19 março 2022) | Fidelidade",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/epub/Carta%20do%20Prelado%2019-III-202220220329090529456189.epub",
+          "extension": "epub"
+        }
+      }
+    },
+    {
+      "clave": "https://opusdei.org/en/article/letter-of-the-prelate-14-february-2017/",
+      "asignarCarpeta": true,
+      "variantes": {
+        "en": {
+          "titulo": "Letter from the Prelate (14 February 2017) | Conclusions of the General Congress",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/epub/pastoral-letter%20(conclusions%20of%20the%20general%20congress)20250121031702955695.epub",
+          "extension": "epub"
+        },
+        "fr": {
+          "titulo": "Lettre du Prélat (14 février 2017) | Centralité du Christ",
+          "urlDescarga": "https://multimedia.opusdei.org/docs/lettre-pastorale-DonFernando-14-02-17_20170420104041594323.epub",
+          "extension": "epub"
+        },
+        "it": {
+          "titulo": "Lettera pastorale (14 febbraio 2017)",
+          "urlDescarga": "https://odnmedia.s3.amazonaws.com/files/lettera-del-prelato-14-febbraio-201720170714-101107.epub",
+          "extension": "epub"
+        },
+        "nl": {
+          "titulo": "Brief van de prelaat (14 februari 2017): Conclusies van het Algemeen Congres",
+          "urlDescarga": "https://multimedia.opusdei.org/doc/epub/epub%20brief-van-de-prelaat-14-februari-201720260423103123678658.epub",
+          "extension": "epub"
+        },
+        "pt-br": {
+          "titulo": "Carta do Prelado (14 fevereiro 2017) | Conclusões do Congresso Geral",
+          "urlDescarga": "https://odnmedia.s3.amazonaws.com/files/carta-prelado-opus-dei-14-fevereiro-2017-pt20170314-002901.epub",
+          "extension": "epub"
+        }
+      }
+    }
+  ],
+  "mensajes": [
+    {
+      "clave": "https://opusdei.org/pl-pl/article/slowo-pralata-opus-dei-na-temat-wyboru-papieza-leona-xiv/",
+      "variantes": {
+        "pl": {
+          "titulo": "Słowo Prałata Opus Dei na temat wyboru Papieża Leona XIV.",
+          "fecha": "2025-05-08",
+          "contenido": "Najdrożsi, niech Jezus strzeże moje córki i moich synów!\n\nPiszę te słowa, aby podzielić się z wami radością, że Kościół i świat mają nowego wikariusza Chrystusa: Papieża Leona XIV. Od chwili, gdy jego imię zostało ogłoszone na balkonie Bazyliki Świętego Piotra, modlimy się za niego i za czekającą go wielką misję.\n\nW chwilach takich jak ta wiara Kościoła jaśnieje szczególnym blaskiem w jedności serc i modlitwie za wspólnego Ojca i za wszystkie siostry i braci. Dziś w szczególny sposób jesteśmy zachęcani wskazówkami świętego Josemaríi: „Kochaj i czcij Ojca Świętego, módl się i umartwiaj za niego — co dzień z większą miłością — gdyż jest on skałą i opoką Kościoła. Przez wieki i do końca czasów kontynuuje wśród wszystkich ludzi dzieło uświęcenia i rządzenia, które Jezus powierzył Piotrowi” (Kuźnia, 134).\n\nSłowa, które wypowiedział przed udzieleniem błogosławieństwa, wciąż w nas rozbrzmiewają: „Jesteśmy uczniami Chrystusa. Chrystus idzie przed nami. Świat potrzebuje Jego światła. Ludzkość potrzebuje Go jako pomostu, by mógł do niej dotrzeć Bóg i Jego miłość”. Jak prosi nas papież, módlmy się wszyscy razem „za tę nową misję, za cały Kościół i o pokój na świecie”.\n\nDzięki Bożej Opatrzności przeżywaliśmy żałobę po Ojcu Świętym Franciszku bliżej wszystkich, dzięki obecności osób z tak wielu krajów, które przybyły, aby wziąć udział w niedawno odbytym Kongresie Generalnym.\n\nPostaramy się poprowadzić drogę rozpoczętą podczas Zgromadzeń Regionalnych, wychodząc od perspektywy, którą Duch Święty otwiera przed nami poprzez posługę Papieża Leona XIV, aby służyć Kościołowi, społeczeństwu i każdemu człowiekowi, aby nieść im ciepło Ewangelii w świecie, w którym - tak często - panuje chłód obojętności, brutalność przemocy i ubóstwo oraz plaga samotności.\n\nTowarzyszmy nowemu Biskupowi Rzymu naszą miłością i modlitwą, idąc za przykładem naszego Założyciela, który pragnął wyryć te ujmujące słowa w Villa Tevere, siedzibie Dzieła: „O, jak jaśniejesz, Rzymie! Jakże błyszczysz stąd, ze wspaniałą panoramą, z tyloma wspaniałymi zabytkami starożytności. Ale twoim najszlachetniejszym i najczystszym klejnotem jest Wikariusz Chrystusa, z którego chlubisz się jako jedyne miasto”.\n\nW tym dniu święta Matki Bożej z Pompejów i Matki Bożej z Luján pójdźmy wszyscy z Piotrem do Jezusa przez Maryję – zwłaszcza w pielgrzymkach, które odbywacie z waszymi przyjaciółmi – aby napełnił Papieża i cały Kościół błogosławieństwem.\n\nZ całego serca was błogosławię,\n\nWasz Ojciec\n\nRzym, 8 maja 2025 r. \n\nSłowo od Prałata"
+        }
+      }
+    },
+    {
+      "clave": "https://opusdei.org/pl-pl/article/slowo-od-pralata-16-grudnia-2024-r/",
+      "variantes": {
+        "pl": {
+          "titulo": "Słowo od Prałata (16 grudnia 2024 r.)",
+          "fecha": "2024-12-16",
+          "contenido": "Kochani! Niech Jezus zachowa moje córki i moich synów!\n\n24 grudnia rozpocznie się nowy Jubileusz w całym Kościele. To właśnie dni Bożego Narodzenia mówią nam o nadziei, która jest też głównym tematem, który Papież wskazał na ten Rok Jubileuszowy.\n\nPatrząc po ludzku, ta noc w Betlejem może być powodem do przygnębienia. Jezus urodził się w samotności, ubóstwie i w zimnie. Bez zaszczytów i wygód. Powitany został jedynie przez pełną miłości troskę Maryi i Józefa oraz pokłon pasterzy. A jednak Bóg chciał w ten sposób wkroczyć w ludzką historię. I właśnie pośród tej kruchości kryje się obietnica pełnej nadziei przyszłości. Narodziny Jezusa przemieniają ciemność w światło, dają nam towarzyszenie i pocieszenie, pokazują nam, gdzie leży prawdziwe bogactwo.\n\nPapież przypomina nam, że życie chrześcijańskie jest drogą, która «potrzebuje również chwil mocnych, aby posilać i wzmacniać nadzieję, niezastąpioną towarzyszkę, która pozwala dostrzec cel: spotkanie z Panem Jezusem» (Spes non confundit, nr 5). Jubileusz może być jedną z tych mocnych chwil, kiedy możemy wyraźniej doświadczyć pewnej nadziei opierającej się na Bożym miłosierdziu.\n\nCzasami w życiu zdarzają się trudne chwile. Ale zawsze możemy skierować nasz wzrok na Dzieciątko Jezus, aby powierzyć Mu nasze troski i pragnienia. W żadnym momencie nie jesteśmy sami, ponieważ Chrystus pragnie dzielić się z nami swoim pokojem; pokojem, który, tak jak w Betlejem, nie zawsze oznacza brak problemów, ale opiera się na pewności wiary w miłość Boga do każdego z nas. To jest fundament naszej nadziei.\n\nŚwiadomość, że Boga interesuje przede wszystkim nasze szczęście — zarówno ziemskie, jak i wieczne — może nam pomóc zrozumieć życiowe niepowodzenia. «Omnia in bonum», «wszystko ku dobremu» – powtarzał święty Josemaría. W tajemniczy sposób wszystko może przyczynić się do dobra naszego i innych, ponieważ miłość Boża jest silniejsza niż zło. Nie możemy całkowicie wyeliminować trudności, ale można przez nie przejść razem z Jezusem, dzieląc je z Nim. «Nie unikanie cierpienia ani ucieczka od bólu uzdrawia człowieka, ale zdolność jego akceptacji, dojrzewania w nim, prowadzi do odnajdywania sensu przez zjednoczenie z Chrystusem, który cierpiał z nieskończoną miłością» (Benedykt XVI, enc. Spe salvi, nr 37). Starajmy się pomagać na tyle, na ile to możliwe, a przede wszystkim towarzyszyć modlitwą wielu osobom, które obecnie cierpią z powodu skutków wojen i klęsk żywiołowych.\n\nMożemy pomyśleć, że noc Bożego Narodzenia była dla Najświętszej Maryi Panny i dla świętego Józefa momentem mieszanych uczuć: bólu z powodu niemożności zaoferowania Jezusowi bardziej godnego miejsca, a także ogromnej radości z trzymania Go w ramionach. Możemy prosić ich, aby narodziny Pana zawsze podtrzymywały naszą nadzieję.\n\nŻyczę Wam dobrych Świąt Bożego Narodzenia i błogosławię Wam z całego serca!\n\nWasz Ojciec\n\nRzym, 16 grudnia 2024 r.\n\nSłowo od Prałata"
+        }
+      }
+    },
+    {
+      "clave": "https://opusdei.org/pl-pl/article/slowo-od-pralata-11-czerwca-2025-r/",
+      "variantes": {
+        "pl": {
+          "titulo": "Słowo od Prałata (11 czerwca 2025 r.)",
+          "fecha": "2025-06-11",
+          "contenido": "Kochani! Niech Jezus zachowa moje córki i moich synów!\n\n15 czerwca będziemy obchodzić wielką liturgiczną uroczystość ku czci Trójcy Przenajświętszej: Boga Ojca, Boga Syna i Boga Ducha Świętego, trzech rzeczywiście odrębnych Osób, które są jednym i tym samym Bogiem. Jest to tajemnica, którą teologia z wysiłkiem ukazuje nam jako wewnętrznie niesprzeczną, ale przekraczającą nasze możliwości poznania.\n\nJuż niedługo będziemy obchodzić 50. rocznicę odejścia do nieba św. Josemaríi. Pewnego razu powiedział nam, że kontemplując tę prawdę naszej wiary, czasami zdawało mu się, że widzi trochę światła, a czasami tylko ciemność. Cieszył się wtedy z nieskończonej wielkości Boga, która nie mieści się w naszym pojmowaniu. «Serce wymaga wtedy, by poznawać i uwielbiać każdą z trzech Osób Boskich. Jest to w jakiś sposób odkrycie, którego dokonuje dusza w życiu nadprzyrodzonym, na podobieństwo małego dziecka otwierającego stopniowo oczy na otaczający je świat. Dusza prowadzi serdeczny dialog z Ojcem i Synem i Duchem Świętym, poddaje się chętnie działaniu Pocieszyciela i Ożywiciela, który przychodzi do nas bez żadnych naszych zasług, obdarzając nas darami i cnotami nadprzyrodzonymi!» (Przyjaciele Boga, 306).\n\nDuch Święty, dzięki łasce uświęcającej, wprowadza nas rzeczywiście w Boże życie, czyniąc nas synami Ojca w Synu. Wiemy, że te słowa nie oddają w pełni tego, co chcielibyśmy wyrazić. Ale Bóg stał się widzialny w Jezusie Chrystusie. I tak jak Pan odpowiada apostołowi Filipowi, tak i nam mówi: «Kto Mnie zobaczył, zobaczył także i Ojca» (J 14, 9).\n\nNiech nasza Matka Maryja, córka Boga Ojca, Matka Boga Syna, Oblubienica – Świątynia – Ducha Świętego, pomaga nam coraz intensywniej uczestniczyć w Bożym życiu Trójcy Świętej i w ten sposób, coraz bardziej utożsamiając się z Chrystusem, oddawać się służbie innym.\n\nNa koniec chciałbym poinformować Was o pracach nad dostosowaniem Statutów. Planowano zakończyć ich analizę podczas Kongresu Generalnego, ale jak wiecie, ze względu na sede vacante, postanowiono tego nie robić. Uczestnicy kongresu zgodzili się, abyśmy wraz z nową Radą i Asesorią dokończyli rewizję Statutów i przekazali je Stolicy Apostolskiej do zatwierdzenia, co uczyniliśmy dzisiaj. Była to trzyletnia droga, towarzyszyła nam modlitwa wszystkich, o którą proszę Was teraz, abyśmy ją zintensyfikowali na tym finalnym etapie.\n\nOczywiście nadal towarzyszymy Ojcu Świętemu Leonowi XIV naszymi modlitwami i codziennym oddaniem.\n\nZ całego serca Was błogosławię\n\nWasz Ojciec\n\nRzym, 11 czerwca 2025 r.\n\nSłowo od Prałata"
+        }
+      }
+    },
+    {
+      "clave": "https://opusdei.org/nl/article/bericht-van-de-prelaat-26-april-2026/",
+      "variantes": {
+        "nl": {
+          "titulo": "Bericht van de prelaat (26 april 2026)",
+          "fecha": "2026-04-26",
+          "contenido": "Mijn geliefde dochters en zonen, moge Jezus jullie behoeden!\n\nIn dit korte bericht wil ik jullie graag aanmoedigen om, heel verenigd met de Paus en de hele Kerk, intensiever te bidden voor de vrede die onze wereld zo hard nodig heeft; een vrede die alleen in Christus ten volle kan worden bereikt: “Want Hij is onze vrede” (Ef 2,14).\n\nOok wanneer we met moeilijkheden en persoonlijke fouten worden geconfronteerd, kunnen we bij de Heer altijd, samen met de vrede, de vreugde vinden in het besef “dat God ons met een verliefde blik beziet, elk uur van de dag” (Vrienden van God, nr.307). Naar de Heer kijken en weten dat Hij naar ons kijkt: dat is het wat ons zekerheid geeft, niet onze eigen zwakke krachten. Laten we er dus naar streven om, zoals onze Vader het wilde, altijd zaaiers van vrede en vreugde te zijn op alle gebieden van ons leven: thuis, op ons werk en in onze vriendschapsrelaties.\n\nMet al mijn genegenheid zegen ik jullie,\n\njullie Vader\n\nRome, 26 april 2026\n\nFernando Ocárizpastoraal berichtpastorale brieven en berichtenbericht van de prelaat"
+        }
+      }
+    },
+    {
+      "clave": "https://opusdei.org/it-it/article/messaggio-del-prelato-30-gennaio-2021/",
+      "variantes": {
+        "it": {
+          "titulo": "Messaggio del prelato (30 gennaio 2021)",
+          "fecha": "2021-01-30",
+          "contenido": "PDF: Messaggio del prelato (30 gennaio 2021)\n\nCarissimi, che Gesù mi protegga le mie figlie i miei figli!\n\nCon queste righe voglio condividere con voi un progetto, affinché la vostra preghiera contribuisca efficacemente a realizzarlo.\n\nNegli ultimi mesi è stato portato avanti uno studio sulla situazione delle circoscrizioni della Prelatura in vista del progetto di migliorare lo slancio e il coordinamento del lavoro apostolico, in esecuzione delle raccomandazioni dell’ultimo Congresso Generale (cfr. Lettera pastorale, 14-II-2017, nn. 13 e 15).\n\nGrazie a Dio, e all'impulso di san Josemaría e dei suoi due primi successori, l'Opera lavora stabilmente in sessantotto paesi. Per questo siamo molto grati a Dio, che non cessa di proteggerci e benedirci e ringraziamo anche il Signore considerando il lavoro realizzato in questi ultimi quattro anni.\n\nÈ DELLA MASSIMA IMPORTANZA L'APOSTOLATO PERSONALE DI CIASCUNO NEL PROPRIO AMBIENTE PROFESSIONALE, FAMILIARE E SOCIALE\n\nAllo stesso tempo, siamo consapevoli delle sfide che la società attuale presenta ovunque alla vita e alla diffusione del Cristianesimo; situazioni di cui tutti abbiamo più o meno esperienza e che rendono l'apostolato in alcuni luoghi più difficile. Sebbene già si faccia un gran bene da molte parti, vorremmo che il Signore possa contare su più braccia per collaborare a far arrivare la gioia del Vangelo fino all'ultimo angolo della terra. Né la sproporzione tra la bellezza della vocazione e missione apostolica e i nostri limiti personali, né le difficoltà esterne possono far diminuire la nostra speranza e la nostra gioia al servizio di Dio, della Chiesa e del mondo.\n\nD'altra parte, una realtà attuale molto positiva è la facilità di comunicare e di spostarsi tra città e paesi lontani, e ciò rende possibile ridurre il numero delle strutture organizzative di governo; ovviamente senza cambiarne la natura, poiché «non è in nostro potere cedere, tagliare o cambiare nulla di ciò che tocca lo spirito e organizzazione dell'Opera» (Istruzione, 19-III-1934, n. 20).\n\nLa riduzione del numero di strutture studiata dall'Assessorato Centrale e dal Consiglio Generale permetterà maggiore agilità ed efficienza nel lavoro e anche più attenzione alla cura delle persone, all'apostolato di ciascuno nel proprio ambiente professionale, familiare e sociale, oltre alle attività formative promosse in e dai centri della Prelatura.\n\nTutto ciò avrà bisogno di una parziale riorganizzazione territoriale. Ad esempio, se ora per dirigere il lavoro dell'Opera in due determinati paesi esistono due Commissioni e due Assessorati, si vedrà se, con i mezzi attuali e tenendo conto dell'esperienza acquisita in questi anni passati, possa essere più efficace una sola Commissione e un Assessorato in questi due territori per mantenere tutte le iniziative apostoliche, come è già stato fatto unendo Croazia e Slovenia. Per continuare a definire la riorganizzazione si conterà, come è logico, sul parere delle Commissioni e Assessorati interessati, e lo si farà poco alla volta.\n\nCONTO SULLA PREGHIERA E SULL'IMPEGNO E INIZIATIVA PERSONALE DI CIASCUNA E DI CIASCUNO\n\nConto sulla preghiera e sull'impegno e iniziativa personale di ciascuna e di ciascuno, per dare oggi vita al messaggio di nostro Padre. Raccomandiamo questo progetto all'intercessione materna di Santa Maria, e anche, specialmente in quest'anno, a quella di San Giuseppe.\n\nCon tutto il suo affetto vi benedice\n\nvostro Padre\n\nRoma, 30 gennaio 2021\n\nMons. Fernando OcárizDal PrelatoLettere e messaggi del PrelatoLettere pastorali Fernando OcárizMessaggi del PrelatoUltime"
+        }
+      }
+    },
+    {
+      "clave": "https://opusdei.org/fr-fr/article/message-du-prelat-25-mai-2026/",
+      "variantes": {
+        "fr": {
+          "titulo": "Message du Prélat (25 mai 2026)",
+          "fecha": "2026-05-25",
+          "contenido": "Mes très chers enfants, que Jésus vous garde !\n\nJuste quelques lignes pour vous dire que, comme il va de soi, la première encyclique du Pape fera l’objet non seulement d’une lecture par tous, mais aussi d’une réflexion personnelle et d’un désir de diffuser largement son message.\n\nCette lecture peut aussi être l’occasion de méditer, plein de reconnaissance envers le Seigneur, sur la réalité de la mission du Souverain Pontife, en tant que principe visible de foi et de communion dans l’Église universelle. Et, en même temps, une raison de nous unir dans la prière pour son travail et ses intentions.\n\nLa récente ordination sacerdotale de membres de l’Œuvre, outre qu’elle est un motif d’action de grâce et de prière pour les nouveaux prêtres, peut aussi être l’occasion de méditer sur l’âme sacerdotale de chacun et de chacune, enracinée dans le sacerdoce commun des fidèles dont saint Josémaria nous a tant parlé.\n\nNous nous confions tout particulièrement aujourd’hui à Sainte Marie, Mère de l’Église, afin qu’elle nous obtienne du Seigneur un amour chaque jour plus profond pour le Successeur de Pierre et un élan renouvelé au service de toutes les âmes.\n\nVotre Père qui vous bénit très affectueusement,\n\nRome, le 25 mai 2026\n\nFernando OcárizMessage Fernando Ocáriz"
+        },
+        "it": {
+          "titulo": "Messaggio del prelato (25 maggio 2026)",
+          "fecha": "2026-05-25",
+          "contenido": "Carissimi, Gesù protegga le mie figlie e i miei figli!\n\nSolo qualche riga per dirvi che la prima Enciclica del Papa non solo sarà, com’è naturale, oggetto di lettura per tutti ma anche di riflessione personale e del desiderio di diffonderne ampiamente il messaggio.\n\nLa lettura può essere poi l’occasione di una riflessione, piena di gratitudine al Signore, sulla missione del Romano Pontefice, principio visibile di fede e di comunione nella Chiesa universale. Sarà, inoltre, motivo di unione nella preghiera per il lavoro e le intenzioni del Papa.\n\nLa recente ordinazione sacerdotale di membri dell’Opera, oltre a invitarci a ringraziare e a pregare per i nuovi sacerdoti, può offrirci anche l’occasione di meditare sulla nostra anima sacerdotale, che è radicata nel sacerdozio comune dei fedeli, del quale san Josemaría ci ha tanto parlato.\n\nCi affidiamo oggi, in modo speciale, a Santa Maria, Madre della Chiesa, perché ottenga per noi dal Signore un amore sempre più profondo per il successore di Pietro e un rinnovato desiderio di servire tutte le anime.\n\nCon grandissimo affetto vi benedice\n\nvostro Padre\n\nRoma, 25 maggio 2026\n\nDal PrelatoDall'Opus DeiLettere e messaggi del PrelatoMessaggi del PrelatoMons. Fernando OcárizUltime"
+        },
+        "nl": {
+          "titulo": "Bericht van de prelaat (25 mei 2026)",
+          "fecha": "2026-05-25",
+          "contenido": "Mijn geliefde dochters en zonen, moge Jezus jullie behoeden!\n\nIk schrijf jullie slechts enkele regels om te zeggen dat de eerste encycliek van de Paus vanzelfsprekend door allen gelezen zal worden. Zij zal ons ook uitnodigen tot persoonlijke bezinning en in ons het verlangen wekken om zijn boodschap overal te verspreiden.\n\nDeze lezing kan tevens een gelegenheid zijn om, met dankbaarheid jegens de Heer, dieper stil te staan bij de betekenis van de zending van de Paus als zichtbaar hoofd van het geloof en van de eenheid in de universele Kerk. Moge zij ons er tegelijk toe brengen om eensgezind te bidden voor zijn werk en zijn intenties.\n\nDe recente priesterwijding van leden van het Werk is niet alleen een reden tot dankzegging en gebed voor de nieuwe priesters, maar kan ook een gelegenheid zijn om na te denken over de priesterlijke ziel van ieder van ons, die geworteld is in het algemene priesterschap van de gelovigen, waarover de heilige Jozefmaria ons zo vaak heeft gesproken.\n\nVandaag vertrouwen wij ons in het bijzonder toe aan de Heilige Maagd Maria, Moeder van de Kerk, opdat zij voor ons van de Heer een steeds diepere liefde voor de opvolger van Petrus en een hernieuwd verlangen om alle zielen te dienen, mag verkrijgen.\n\nMet al mijn genegenheid zegen ik jullie,\n\njullie Vader\n\nRome, 25 mei 2026\n\nFernando Ocárizbericht van de prelaatpastorale brieven en berichtenpastoraal bericht"
+        }
+      }
+    },
+    {
+      "clave": "https://opusdei.org/es-mx/article/mensaje-prelado-septiembre-2026/",
+      "variantes": {
+        "es": {
+          "titulo": "Mensaje del Prelado (25 septiembre 2026)",
+          "fecha": "2026-09-25",
+          "contenido": "Queridísimos: ¡que Jesús me guarde a mis hijas y a mis hijos!\n\nDentro de muy poco, ya metidos en los tres últimos años camino hacia el Centenario, celebraremos un nuevo 2 de octubre, día en que san Josemaría vio la Obra, y poco después, el 6 de octubre, el de su canonización. Aprovechemos estas fiestas para poner la mirada de un modo especial en nuestro Padre, con un deseo renovado de aprender de su vida a ser y hacer el Opus Dei.\n\nDesde el Cielo sigue acompañándonos en nuestro camino. Podemos pensar que nada de lo que nos ocurra, ya sea bueno o doloroso, le es indiferente. Me vienen a la cabeza aquellas palabras, tan llenas de cariño, que nos decía en una ocasión: «Os quiero porque sois hijos de Dios, porque habéis decidido libremente ser mis hijos, porque tratáis de ser santos, porque sois muy fieles y muy majos: todos mis hijos lo son» (AGP, P01 1971, p. 10).\n\nAcudamos a su intercesión con mucha confianza, sabiendo que siempre nos escucha y nos acompaña.\n\nSigamos, como siempre, muy unidos al Santo Padre, ahora también en su viaje apostólico en Francia.\n\nCon todo cariño, os bendice\n\nvuestro Padre\n\nRoma, 25 de septiembre de 2026\n\nFernando OcárizMensaje Fernando OcárizCentenario Opus Dei"
+        },
+        "fr": {
+          "titulo": "Message du Prélat (25 septembre 2026)",
+          "fecha": "2026-09-25",
+          "contenido": "Mes très chers enfants, que Jésus vous garde !\n\nDans très peu de jours, alors que nous entrerons déjà dans les trois dernières années avant le Centenaire, nous célébrerons un nouveau 2 octobre, jour où saint Josémaria a vu l’Œuvre, et peu après, le 6 octobre, jour anniversaire de sa canonisation. Profitons de ces fêtes pour tourner tout particulièrement notre regard vers notre Père, avec un désir renouvelé d’apprendre de sa vie à être et à faire l’Opus Dei.\n\nDepuis le Ciel, il continue de nous accompagner sur notre chemin. Nous pouvons penser que rien de ce qui nous arrive, que ce soit bon ou douloureux, ne lui est indifférent. Je repense à ces paroles, si pleines d’affection, qu’il nous disait un jour : « Je vous aime parce que vous êtes enfants de Dieu, parce que vous avez librement décidé d’être mes enfants, parce que vous vous efforcez d’être saints, parce que vous êtes très fidèles et très bons : tous mes enfants le sont » (AGP, P01 1971, p. 10).\n\nRecourons à son intercession avec une grande confiance, sachant qu’il nous écoute et nous accompagne toujours.\n\nRestons, comme toujours, très unis au Saint-Père, notamment pendant ces jours de son voyage apostolique en France.\n\nC’est avec toute mon affection que je vous bénis,\n\nVotre Père\n\nRome, le 25 septembre 2026\n\nFernando OcárizMessage Fernando OcárizCentenaire de l'Opus Dei"
+        },
+        "it": {
+          "titulo": "Messaggio del prelato (25 settembre 2026)",
+          "fecha": "2026-09-25",
+          "contenido": "Carissimi, Gesù protegga le mie figlie e i miei figli!\n\nTra pochissimo, entrati ormai nell’ultimo triennio del cammino verso il Centenario, festeggeremo un nuovo 2 ottobre, che fu quando san Josemaría vide l’Opera, e poi il 6 ottobre, anniversario della sua canonizzazione. Approfittiamo di queste feste per rivolgere a nostro Padre uno sguardo particolarmente intenso, rinnovando il desiderio di imparare dalla sua vita a essere e fare l’Opus Dei.\n\nDal Cielo continua ad accompagnarci nel nostro cammino. Possiamo pensare che nulla di ciò che ci accade gli è indifferente, bello o doloroso che sia. Mi viene in mente ciò che ci disse una volta con tanto affetto: «Vi voglio bene perché siete figli di Dio, perché avete deciso liberamente di essere miei figli, perché cercate di essere santi, perché siete molto fedeli e molto in gamba: tutti i miei figli lo sono» (AGP, P01 1971, p. 10).\n\nRicorriamo alla sua intercessione con grande fiducia, sapendo che ci ascolta e ci accompagna in qualsiasi circostanza.\n\nContinuiamo a rimanere uniti al Santo Padre, sempre, e anche ora, nelle giornate del suo viaggio apostolico in Francia.\n\nCon grandissimo affetto, vi benedice\n\nvostro Padre\n\nRoma, 25 settembre 2026\n\nDal PrelatoLettere e messaggi del PrelatoMessaggi del PrelatoMons. Fernando OcárizUltime100Centenario Opus DeiDal PadreFormazione CentenarioDal Prelato centenario"
+        }
+      }
+    },
+    {
+      "clave": "https://opusdei.org/es-mx/article/mensaje-prelado-22-julio-2026-conversion/",
+      "variantes": {
+        "es": {
+          "titulo": "Mensaje del Prelado (22 julio 2026)",
+          "fecha": "2026-07-22",
+          "contenido": "Queridísimos: ¡que Jesús me guarde a mis hijas y a mis hijos!\n\nSe celebra hoy la fiesta litúrgica de santa María Magdalena, que nos ofrece una nueva invitación a renovar nuestros deseos de conversión, porque toda su vida manifiesta la fuerza transformadora del encuentro con Jesucristo.\n\nLa conversión que buscamos no consiste únicamente en el movimiento del mal al bien –siempre necesario–, sino también en el paso de lo bueno a lo mejor: el permanente crecimiento en el amor a Dios y a los demás.\n\nTanto una cosa como otra requieren de cada uno la humildad para reconocer nuestra necesidad de mejorar y la sinceridad de corazón. Recordemos estas palabras de san Josemaría, que evocan la parábola del hijo pródigo: «Tu Padre Dios sale a tu encuentro, apenas te confiesas pecador en aquello que la soberbia te ocultaba como pecado» (Carta 14-II-1974, n. 7).\n\nEsta sinceridad personal ante los propios pecados y defectos no ha de ser motivo de desaliento, porque, como también nos dice nuestro Padre, «la conciencia de nuestra filiación divina da alegría a nuestra conversión» (Es Cristo que pasa, n. 64).\n\nTenemos un medio maravilloso para dejar actuar al Señor en nuestra alma: el examen diario de conciencia. Cuidémoslo, sin escrúpulos ni inquietudes, con la ilusión de descubrir cómo corresponder mejor, en lo grande y en lo pequeño, al inmenso amor que Dios nos tiene.\n\nComo fruto maduro de este deseo de conversión, la gracia de Dios nos llevará, como a María Magdalena, a buscar al Señor en toda circunstancia y a ser fuertes junto a su cruz.\n\nComo sabéis, me encuentro, desde principios de mes, en Pamplona. Termino pidiéndoos que me acompañéis con vuestra oración en este viaje que, si Dios quiere, proseguirá el mes próximo, en América Central –Guatemala, Honduras y El Salvador– y Uruguay. Juntos nos unimos, desde los cuatro puntos cardinales, al Papa en sus intenciones; en concreto, ahora por la del mes de julio: el respeto de la vida humana.\n\nCon todo cariño os bendice\n\nvuestro Padre\n\n\nPamplona, 22 de julio de 2026\n\nFernando OcárizMaría MagdalenaMensaje Fernando Ocáriz"
+        },
+        "fr": {
+          "titulo": "Message du Prélat (22 juillet 2026)",
+          "fecha": "2026-07-22",
+          "contenido": "Mes très chers enfants, que Jésus vous garde !\n\nNous célébrons aujourd’hui la fête liturgique de sainte Marie-Madeleine qui nous invite à nouveau à renouveler notre désir de conversion, car toute sa vie témoigne de la force transformatrice de la rencontre avec Jésus-Christ.\n\nLa conversion que nous recherchons ne consiste pas seulement à passer du mal au bien – ce qui est toujours nécessaire –, mais aussi à passer du bien au mieux : la croissance permanente dans l’amour de Dieu et des autres.\n\nL’une comme l’autre de ces conversions exigent de chacun l’humilité de reconnaître que nous avons besoin de nous améliorer et la sincérité du cœur. Rappelons-nous ces paroles de saint Josémaria qui évoquent la parabole du fils prodigue : « Dieu ton Père vient à ta rencontre dès que tu te confesses pécheur dans ce que l’orgueil te cachait comme péché » (Lettre du 14 février 1974, no 7).\n\nCette sincérité personnelle face à nos propres péchés et défauts ne doit pas être un motif de découragement, car, comme notre Père nous le dit également, « la conscience de notre filiation divine imprègne de joie notre conversion » (Quand le Christ passe, no 64).\n\nNous disposons d’un moyen merveilleux pour laisser le Seigneur agir dans notre âme : l’examen de conscience quotidien. Soignons-le, sans scrupules ni inquiétudes, avec l’envie de découvrir comment mieux répondre, dans les grandes comme dans les petites choses, à l’immense amour que Dieu nous porte.\n\nFruit mûr de ce désir de conversion, la grâce de Dieu nous conduira, comme Marie-Madeleine, à rechercher le Seigneur en toutes circonstances et à rester forts auprès de sa croix.\n\nComme vous le savez, je me trouve, depuis le début du mois, à Pampelune. Je termine en vous demandant de m’accompagner par vos prières dans ce voyage qui, si Dieu le veut, se poursuivra le mois prochain en Amérique centrale – Guatemala, Honduras et Salvador – ainsi qu’en Uruguay. Ensemble, des quatre coins du monde, nous nous unissons au Pape dans ses intentions ; plus précisément, en ce moment, pour celle du mois de juillet : le respect de la vie humaine.\n\nC’est avec toute mon affection que je vous bénis\n\nvotre Père\n\nPampelune, le 22 juillet 2026\n\nFernando OcárizMessage Fernando OcárizMarie-Madeleine"
+        },
+        "it": {
+          "titulo": "Messaggio del prelato (22 luglio 2026)",
+          "fecha": "2026-07-22",
+          "contenido": "Carissimi, Gesù protegga le mie figlie e i miei figli!\n\nOggi si celebra la festa liturgica di santa Maria Maddalena, che ci invita ancora una volta a rinnovare il nostro desiderio di conversione. Infatti, tutta la sua vita rivela la forza trasformante dell’incontro con Gesù.\n\nLa conversione che desideriamo non consiste soltanto nel passare dal male al bene, cosa sempre necessaria, ma anche dal bene al meglio: una crescita continua nell’amore di Dio e del prossimo.\n\nEntrambi i passaggi richiedono a ognuno di noi l’umiltà necessaria per riconoscere che abbiamo bisogno di migliorare e la sincerità del cuore. Ricordiamo queste parole di san Josemaría, che alludono alla parabola del figlio prodigo: «Tuo Padre Dio ti viene incontro non appena ti riconosci peccatore in ciò che la superbia ti nascondeva come peccato» (Lettera 14-II-1974, n. 7).\n\nQuesta sincerità personale riguardo ai propri peccati e difetti non deve essere motivo di scoraggiamento perché, come ci dice ancora san Josemaría, «la consapevolezza della nostra filiazione divina riempie di gioia la nostra conversione» (È Gesù che passa, n. 64).\n\nAbbiamo uno strumento meraviglioso per far agire il Signore nella nostra anima: l’esame di coscienza quotidiano. Facciamolo senza scrupoli e senza affanno, fiduciosi di poter scoprire come corrispondere meglio, nel grande e nel piccolo, all’immenso amore che Dio ha per noi.\n\nLa grazia di Dio, frutto maturo del desiderio di conversione, ci porterà, come Maria Maddalena, a cercare il Signore in ogni circostanza e a essere forti accanto alla sua croce.\n\nCome sapete, mi trovo a Pamplona dall’inizio del mese. Concludo chiedendovi di accompagnarmi con la vostra preghiera in questo viaggio che, se Dio vuole, proseguirà il mese prossimo in America Centrale (Guatemala, Honduras, El Salvador) e in Uruguay. Da ogni parte del mondo ci uniamo tutti alle intenzioni del Papa; in particolare, in questo momento, a quella del mese di luglio: il rispetto della vita umana.\n\nCon tanto affetto, vi benedice\nvostro Padre\n\nPamplona, 22 luglio 2026\n\nDal PrelatoDall'Opus DeiLettere e messaggi del PrelatoMaria MaddalenaMessaggi del PrelatoMons. Fernando OcárizUltime"
+        },
+        "nl": {
+          "titulo": "Bericht van de Prelaat (22 juli 2026)",
+          "fecha": "2026-07-22",
+          "contenido": "Mijn geliefde dochters en zonen, moge Jezus jullie behoeden!\n\nVandaag vieren we het liturgisch feest van de heilige Maria Magdalena, wat ons opnieuw uitnodigt ons verlangen naar bekering te hernieuwen, want haar hele leven laat zien hoe de ontmoeting met Jezus Christus iemand helemaal kan veranderen.\n\nDe bekering waarnaar wij streven bestaat niet alleen uit de stap van het kwade naar het goede – die altijd nodig is –, maar ook uit de stap van het goede naar het betere: een voortdurend groeien in liefde voor God en voor onze medemensen.\n\nZowel het ene als het andere vereist van ieder van ons nederigheid om te erkennen dat we ons moeten verbeteren, en oprechtheid van hart. Laten we deze woorden van de heilige Jozefmaria in gedachten houden, die verwijzen naar de gelijkenis van de verloren zoon: “Je Vader God komt je tegemoet zodra je erkent dat je hebt gezondigd in datgene wat je door je hoogmoed niet als zonde wilde zien” (Brief van 14 februari 1974, nr. 7).\n\nDeze persoonlijke oprechtheid ten aanzien van onze eigen zonden en tekortkomingen mag geen reden tot ontmoediging zijn, want onze Vader zegt ons ook: “We bekeren ons met blijdschap, want we zijn ons bewust van ons goddelijk kindschap” (Christus komt langs, nr. 64).\n\nWe beschikken over een prachtig middel om de Heer in onze ziel werkzaam te laten zijn: het dagelijkse gewetensonderzoek. Laten we hier zorgvuldig aandacht aan besteden, zonder scrupules of onrust, omdat we weten dat we zo kunnen ontdekken hoe we, in grote en kleine dingen, het beste kunnen beantwoorden aan de enorme liefde die God voor ons koestert.\n\nAls rijpe vrucht van dit verlangen naar bekering zal Gods genade ons, net als Maria Magdalena, ertoe brengen om de Heer in alle omstandigheden te zoeken en vol sterkte naast zijn kruis te staan.\n\nZoals jullie weten, ben ik sinds begin deze maand in Pamplona. Ik sluit af met het verzoek mij met jullie gebed te begeleiden op deze reis die, als God het wil, volgende maand zal worden voortgezet in Midden-Amerika – Guatemala, Honduras en El Salvador – en Uruguay. Vanuit alle windstreken verenigen we ons met de intenties van de Paus, en nu in het bijzonder met die van de maand juli: het respect voor het menselijk leven.\n\nMet al mijn genegenheid zegen ik jullie,\n\njullie Vader\n\nPamplona, 22 juli 2026\n\nFernando Ocárizpastoraal berichtpastorale brieven en berichtenbericht van de prelaat"
+        }
+      }
+    },
+    {
+      "clave": "https://opusdei.org/es-mx/article/mensaje-prelado-19-agosto-2026-unidad-comprension/",
+      "variantes": {
+        "es": {
+          "titulo": "Mensaje del Prelado (19 agosto 2026)",
+          "fecha": "2026-08-19",
+          "contenido": "Queridísimos: ¡que Jesús me guarde a mis hijas y a mis hijos!\n\nPara comenzar este breve mensaje, deseo daros las gracias por vuestra oración por mis intenciones y, en este momento, por acompañarme en el viaje a Centroamérica y a Uruguay.\n\nLa oración de unos por otros, dentro de la unidad de la Iglesia, nos acerca al impresionante nivel de unidad que el Señor quiere para todos nosotros: el de la misma unidad de Dios, «que todos sean uno; como Tú, Padre, en mí y yo en Ti» (Jn 17, 21).\n\nLa unidad de fe, de espíritu, de afán apostólico, se entrelaza muy bien con la gran diversidad de caracteres, de aficiones, de opiniones. Análogamente a como la unidad en Dios es el Amor personal infinito –el Espíritu Santo–, todas las diversas expresiones de unidad y diversidad están llamadas a ser vivificadas por la caridad, por el amor. Solo así, aun los opuestos puntos de vista, aficiones, etc., y los defectos y limitaciones personales dejan de ser motivos de separación.\n\nNo me detengo más en estas consideraciones, que todos podríamos ampliar mucho. Deseo solo añadir unas palabras de san Josemaría bien conocidas; os sugiero que las volvamos a meditar para ver cómo aplicarlas mejor en nuestra vida ordinaria: «Más que en “dar”, la caridad está en “comprender”» (Camino, n. 463). Caridad, amor, que nos llevará a descubrir, ante todo, las cualidades y virtudes de los demás, de modo que al ver también los defectos que todos tenemos, los veremos con afecto, con deseo de ayudar.\n\nCon todo cariño, os bendice\n\nvuestro Padre\n\nCiudad de Guatemala, 19 de agosto de 2026\n\nFernando OcárizMensaje Fernando Ocáriz"
+        },
+        "fr": {
+          "titulo": "Message du Prélat (19 août 2026)",
+          "fecha": "2026-08-19",
+          "contenido": "Mes très chers enfants, que Jésus vous garde !\n\nPour commencer ce bref message, je tiens à vous remercier pour vos prières à mes intentions et, également maintenant, de m’accompagner dans ce voyage en Amérique centrale et en Uruguay.\n\nLa prière des uns pour les autres, dans l’unité de l’Église, nous rapproche de ce niveau impressionnant d’unité que le Seigneur souhaite pour nous tous : celui de l’unité même de Dieu, « Que tous soient un, comme toi, Père, tu es en moi, et moi en toi » (Jn 17, 21).\n\nL’unité de la foi, de l’esprit, de l’ardeur apostolique, s’harmonise parfaitement avec la grande diversité des caractères, des goûts et des opinions. De la même manière que l’unité en Dieu est l’Amour personnel infini – le Saint-Esprit –, toutes les différentes expressions d’unité et de diversité sont appelées à être animées par la charité, par l’amour. Ce n’est qu’ainsi que même les points de vue opposés, les goûts divergents, etc., ainsi que les défauts et les limites personnelles, cessent d’être des motifs de séparation.\n\nJe ne m’attarderai pas davantage sur ces considérations que nous pourrions tous beaucoup approfondir. Je souhaite seulement ajouter quelques paroles bien connues de saint Josémaria ; je vous suggère que nous les méditions à nouveau pour voir comment mieux les appliquer dans notre vie quotidienne : « Plus qu’à donner, la charité consiste à comprendre » (Chemin, no 463). La charité, l’amour, qui nous amènera à découvrir avant tout les qualités et les vertus des autres, de sorte que, même en voyant les défauts que nous avons tous, nous les regardions avec affection, avec le désir d’aider.\n\nC’est avec toute mon affection que je vous bénis,\n\nVotre Père\n\nVille de Guatemala, 19 août 2026\n\nFernando OcárizMessage Fernando Ocáriz"
+        },
+        "it": {
+          "titulo": "Messaggio del prelato (19 agosto 2026)",
+          "fecha": "2026-08-19",
+          "contenido": "Carissimi, Gesù protegga le mie figlie e i miei figli!\n\nAll’inizio di questo breve messaggio, desidero ringraziarvi per le vostre preghiere per le mie intenzioni e di accompagnarmi, in questo momento, nel viaggio in America Centrale e in Uruguay.\n\nLa preghiera gli uni per gli altri, nell’unità della Chiesa, ci avvicina allo straordinario grado di unità che il Signore desidera per tutti noi, quello della stessa unità di Dio: «Perché tutti siano una sola cosa. Come tu, Padre, sei in me e io in te» (Gv 17, 21).\n\nL’unità nella fede, nello spirito e nel fervore apostolico si sposa molto bene con la grande varietà di caratteri, interessi e opinioni. Come in Dio il vincolo di unità è lo Spirito Santo, Amore personale infinito, così tutte le diverse espressioni di unità e varietà sono chiamate a essere vivificate dalla carità, dall’amore. Solo in tal modo anche i punti di vista e gli interessi contrastanti, i difetti e i limiti personali cessano di essere motivo di separazione.\n\nNon mi soffermo oltre su queste considerazioni, che tutti sapremmo sviluppare ampiamente. Desidero soltanto aggiungere alcune ben note parole di san Josemaría che vi suggerisco di meditare di nuovo, per vedere come concretizzarle meglio nella nostra vita ordinaria: «Più che nel “dare”, la carità consiste nel “comprendere”» (Cammino, n. 463). Una carità, un amore che ci farà scoprire, anzitutto, le qualità e le virtù degli altri, cosicché, vedendo anche i difetti che tutti abbiamo, sapremo guardarli con affetto e con il desiderio di aiutare.\n\nCon grandissimo affetto, vi benedice \n\nvostro Padre\n\nCittà del Guatemala, 19 agosto 2026\n\nDal PrelatoDall'Opus DeiLettere e messaggi del PrelatoMessaggi del PrelatoMons. Fernando OcárizUltime"
+        },
+        "nl": {
+          "titulo": "Bericht van de Prelaat (19 augustus 2026)",
+          "fecha": "2026-08-19",
+          "contenido": "Mijn geliefde dochters en zonen, moge Jezus jullie behoeden!\n\nOm mijn korte bericht te beginnen, wil ik jullie graag bedanken voor jullie gebeden voor mijn intenties en, op dit moment, voor jullie betrokkenheid bij mijn reis naar Midden-Amerika en Uruguay.\n\nDoor binnen de eenheid van de Kerk voor elkaar te bidden, komen we dichter bij het indrukwekkende niveau van eenheid dat de Heer voor ons allen wil: namelijk de eenheid van God zelf: “Opdat zij allen één mogen zijn, zoals Gij, Vader, in Mij en Ik in U” (Joh 17, 21).\n\nDe eenheid in geloof, geest en apostolische ijver gaat heel goed samen met de grote verscheidenheid aan karakters, interesses en meningen. Net zoals de eenheid in God de oneindige persoonlijke Liefde is – de Heilige Geest –, zijn alle verschillende uitingen van eenheid en verscheidenheid bedoeld om door de naastenliefde, door de liefde, te worden bezield. Alleen zo zijn zelfs tegengestelde standpunten, voorkeuren, enz., en onze persoonlijke tekortkomingen en beperkingen geen reden meer voor verdeeldheid.\n\nIk zal niet langer stilstaan bij deze overwegingen, waar we zelf allemaal nog veel meer over zouden kunnen zeggen. Ik wil alleen nog enkele bekende woorden van de heilige Jozefmaria toevoegen; ik stel voor dat we daar opnieuw over nadenken om te zien hoe we ze beter in ons dagelijks leven kunnen toepassen: “Meer dan in het ‘geven’, bestaat de liefde in het ‘begrijpen’” (De Weg, nr. 463). Naastenliefde, liefde, die ons ertoe zal brengen om in de eerste plaats de kwaliteiten en deugden van onze medemensen te ontdekken, zodat we, ook al zien we de gebreken die we allemaal hebben, deze met genegenheid zullen bekijken, met de wens om te helpen.\n\nMet al mijn genegenheid zegen ik jullie,\n\njullie Vader\n\nGuatemala Stad, 19 augustus 2026\n\nFernando Ocárizbericht van de prelaatpastoraal berichtpastorale brieven en berichten"
+        }
+      }
+    },
+    {
+      "clave": "https://opusdei.org/es-mx/article/mensaje-prelado-14-junio-2026-pobreza/",
+      "variantes": {
+        "es": {
+          "titulo": "Mensaje del Prelado (14 junio 2026)",
+          "fecha": "2026-06-14",
+          "contenido": "Queridísimos: ¡que Jesús me guarde a mis hijas y a mis hijos!\n\nEn este mensaje quisiera invitaros a que profundicemos en algunos aspectos de la virtud de la pobreza, en la que resplandece el bonus odor Christi del que habla san Pablo (cfr. 2Cor 2,15).\n\nSan Josemaría evocaba esta virtud con frecuencia, entendida no solo como desprendimiento exterior, sino como una forma del amor que Cristo nos ha enseñado, expresión de un corazón que desea pertenecer a Dios. Cristo quiso nacer pobre, vivir pobre y morir pobre; a la vez, se presentó con el tono adecuado a las diversas circunstancias y personas. El Hijo de Dios, pudiendo poseerlo todo, eligió el camino de la humildad y del anonadamiento (cfr. Flp 2,6-8). Y en esa pobreza se revela la belleza de un corazón libre y totalmente abierto a la voluntad de Dios Padre.\n\nLos santos, en formas muy diversas, son testimonios de esta realidad. Ellos descubrieron en la pobreza no una pérdida, sino una plenitud. Porque el alma que se desprende de las ataduras desordenadas comienza a experimentar una libertad nueva: la libertad del amor. «Frente al deseo de tener a Dios como compañero de camino, las riquezas se relativizan, porque se descubre el verdadero tesoro del que realmente tenemos necesidad» (León XIV, Mensaje, 16-XI-2025).\n\nLas manifestaciones concretas de la virtud de la pobreza pueden depender de variadas circunstancias. Lo que para una persona es necesario o muy conveniente, para otra sería superfluo; lo que para la misma persona es necesario en una determinada situación, puede dejar de serlo después. Por otra parte, salvo en casos evidentes, la distinción –aquí y ahora– entre lo necesario, lo conveniente y lo superfluo requiere algo más que un criterio externo: exige una conciencia formada, prudencia y una disposición sincera a vivir la pobreza, que incluye saber pedir consejo cuando no se ve con claridad si un gasto o una decisión son realmente convenientes.\n\nCuando la virtud, el espíritu de pobreza, arraiga verdaderamente en nuestra vida, el corazón se vuelve ligero y, con la gracia divina, se eleva con mayor facilidad hacia la contemplación. El alma aprende a reconocer mejor los toques suaves y delicados del Espíritu Santo. Y así, en medio de las ocupaciones ordinarias, se comienza a vivir con una paz y una alegría que el mundo no puede dar (cfr. Jn 14,27). Es el gozo silencioso de saberse habitados por el amor de Dios; un amor que entra también en nuestra debilidad, la ilumina y poco a poco nos va transformando desde dentro, hacia la identificación con Jesucristo.\n\nPor otro lado, no podemos ignorar que en muchos ambientes está extendida una mentalidad que tiende a identificar la felicidad con el bienestar material y el placer. Ante esto, sabemos bien que nuestra vocación no consiste en huir del mundo, sino en amarlo y colaborar en transformarlo desde dentro. Pero, para lograrlo, como nos decía san Josemaría, hemos de ser almas contemplativas: «La llamada divina tiene una finalidad muy concreta: meterte en todas las encrucijadas de la tierra, estando tú bien metido en Dios» (En diálogo con el Señor, n. 11).\n\nDe este modo, podremos ser la tierra buena de la que habla Jesús en la parábola del sembrador, y que permite que la palabra de Dios dé buen fruto en nuestra vida: una mayor libertad interior, una alegría más sobria y profunda, una confianza más real en Dios y una mirada más atenta a las necesidades de los demás. Pero si la semilla se encuentra rodeada de espinos –es decir, de las excesivas preocupaciones materiales y del afán de las riquezas–, queda estéril: la persona pierde libertad interior, se vuelve menos disponible para Dios y para los demás, y acaba poniendo su esperanza en seguridades que no pueden saciar el corazón.\n\nProcuremos evitar con decisión, en lo grande y en lo pequeño, que la cultura materialista ahogue la tierra buena de nuestro corazón y de los lugares donde vivamos (cfr. Mt 13,22). Cuando la pobreza se descuida, inevitablemente se va apagando el deseo de contribuir a que el amor de Dios arraigue en otras almas. En este sentido, san Josemaría relacionaba esta virtud de manera muy directa con el afán apostólico: «Despégate de los bienes del mundo. –Ama y practica la pobreza de espíritu: conténtate con lo que basta para pasar la vida sobria y templadamente. –Si no, nunca serás apóstol» (Camino, n. 631).\n\nDetrás de una falta de afán apostólico es fácil que haya una vida destemplada por compensaciones que adormecen el alma. Con nuestro Padre –celebraremos su fiesta en este mes–, os animo a que demos cada uno personalmente, si fuera necesario, un paso adelante en este punto de conversión. Sin duda, esto se traducirá en un amor más delicado a nuestro Señor y nos permitirá llevarlo más eficazmente al mundo.\n\nPongamos este deseo en manos de nuestra Madre, para que ella nos enseñe a descubrir siempre de nuevo la belleza de una vida pobre y plenamente entregada al amor de Dios.\n\nMantengámonos muy unidos en la oración por el Santo Padre y sus intenciones, ahora concretamente por la eficaz difusión de su primera encíclica y por los frutos de su viaje apostólico a España.\n\nCon todo cariño os bendice\n\nvuestro Padre\n\nRoma, 14 de junio de 2026\n\nFernando OcárizMensaje Fernando OcárizPobreza"
+        },
+        "fr": {
+          "titulo": "Message du Prélat (14 juin 2026)",
+          "fecha": "2026-06-14",
+          "contenido": "Mes très chers enfants, que Jésus vous garde !\n\nDans ce message, je voudrais vous inviter à approfondir certains aspects de la vertu de la pauvreté dans laquelle resplendit le bonus odor Christi dont parle saint Paul (cf. 2 Co 2, 15).\n\nSaint Josémaria évoquait souvent cette vertu, comprise non seulement comme le détachement extérieur, mais aussi comme une forme de l’amour que le Christ nous a enseignée, expression d’un cœur qui désire appartenir à Dieu. Le Christ a voulu naître pauvre, vivre pauvre et mourir pauvre ; en même temps, il s’est présenté avec le ton adapté aux différentes circonstances et aux différentes personnes. Le Fils de Dieu, qui pouvait tout posséder, a choisi le chemin de l’humilité et de l’anéantissement (cf. Ph 2, 6-8). Et c’est dans cette pauvreté que se révèle la beauté d’un cœur libre et totalement ouvert à la volonté de Dieu le Père.\n\nLes saints, de manière très diverse, sont les témoins de cette réalité. Ils ont découvert dans la pauvreté non pas un manque mais une plénitude. Car l’âme qui se détache des liens désordonnés commence à faire l’expérience d’une liberté nouvelle : la liberté de l’amour. « Face au désir d'avoir Dieu comme compagnon de route, les richesses sont relativisées car découvrant le véritable trésor dont nous avons réellement besoin » (Léon XIV, Message, 16-XI-2025).\n\nLes manifestations concrètes de la vertu de pauvreté peuvent dépendre de circonstances variées. Ce qui est nécessaire ou très utile pour une personne peut être superflu pour une autre ; ce qui est nécessaire pour la même personne dans une situation donnée peut cesser de l’être par la suite. D’autre part, sauf dans des cas évidents, la distinction – ici et maintenant – entre le nécessaire, le convenable et le superflu exige plus qu’un critère extérieur : elle exige une conscience formée, de la prudence et une disposition sincère à vivre la pauvreté, ce qui implique de savoir demander conseil lorsqu’on ne voit pas clairement si une dépense ou une décision est réellement convenable.\n\nLorsque la vertu, l’esprit de pauvreté, s’enracine véritablement dans notre vie, le cœur s’allège et, avec la grâce divine, s’élève plus facilement vers la contemplation. L’âme apprend à mieux reconnaître les touches douces et délicates de l’Esprit Saint. Et ainsi, au milieu des occupations ordinaires, on commence à vivre dans une paix et une joie que le monde ne peut donner (cf. Jn 14, 27). C’est la joie silencieuse de se savoir habités par l’amour de Dieu ; un amour qui pénètre aussi notre faiblesse, l’illumine et, peu à peu, nous transforme de l’intérieur, jusqu’à l’identification à Jésus-Christ.\n\nD'autre part, nous ne pouvons ignorer que, dans de nombreux milieux, il existe une mentalité répandue qui tend à assimiler le bonheur au bien-être matériel et au plaisir. Face à cela, nous savons bien que notre vocation ne consiste pas à fuir le monde, mais à l’aimer et à collaborer à sa transformation de l’intérieur. Mais, pour y parvenir, comme nous le disait saint Josémaria, nous devons être des âmes contemplatives : « L’appel divin a un but très concret : te placer à tous les carrefours de la terre, tout en étant bien ancré en Dieu » (En dialogue avec le Seigneur, no 11).\n\nAinsi, nous pourrons être la bonne terre dont parle Jésus dans la parabole du semeur, celle qui permet à la parole de Dieu de porter de bons fruits dans notre vie : une plus grande liberté intérieure, une joie plus sobre et plus profonde, une confiance plus réelle en Dieu et un regard plus attentif aux besoins des autres. Mais si la graine se trouve entourée d’épines – c’est-à-dire de préoccupations matérielles excessives et de la soif de richesses –, elle reste stérile : la personne perd sa liberté intérieure, devient moins disponible pour Dieu et pour les autres, et finit par mettre son espoir dans des certitudes qui ne peuvent rassasier le cœur.\n\nEfforçons-nous d’éviter résolument, dans les grandes comme dans les petites choses, que la culture matérialiste étouffe la bonne terre de notre cœur et des lieux où nous vivons (cf. Mt 13, 22). Lorsque la pauvreté est négligée, le désir de contribuer à ce que l’amour de Dieu s’enracine dans d’autres âmes s’éteint inévitablement. En ce sens, saint Josémaria reliait très directement cette vertu à la ferveur apostolique : « Détache-toi des biens de ce monde. Aime et pratique la pauvreté en esprit ; contente-toi de ce qui suffit pour une vie sobre et simple. Sinon, tu ne seras jamais apôtre » (Chemin, no 631).\n\nDerrière un manque de zèle apostolique se cache souvent une vie déséquilibrée par des compensations qui endorment l’âme. Avec notre Père – dont nous célébrerons la fête ce mois-ci –, je vous encourage à faire chacun, si nécessaire, un pas en avant sur ce point de conversion. Sans aucun doute, cela se traduira par un amour plus délicat pour notre Seigneur et nous permettra de le porter plus efficacement au monde.\n\nRemettons ce désir entre les mains de notre Mère afin qu’elle nous apprenne à redécouvrir sans cesse la beauté d’une vie pauvre et pleinement consacrée à l’amour de Dieu.\n\nRestons très unis dans la prière pour le Saint-Père et ses intentions, en particulier pour la diffusion efficace de sa première encyclique et pour les fruits de son voyage apostolique en Espagne.\n\nVotre Père qui vous bénit très affectueusement,\n\nRome, le 14 juin 2026\n\nFernando OcárizMessage Fernando OcárizPauvreté"
+        },
+        "it": {
+          "titulo": "Messaggio del prelato (14 giugno 2026)",
+          "fecha": "2026-06-14",
+          "contenido": "Carissimi, Gesù protegga le mie figlie e i miei figli!\n\nIn questo messaggio vorrei invitarvi ad approfondire alcuni aspetti della virtù della povertà, nella quale risplende il bonus odor Christi di cui parla san Paolo (cfr. 2Cor 2,15).\n\nSan Josemaría evocava spesso questa virtù, intesa non solo come distacco esteriore, ma come una forma dell’amore che Gesù ci ha insegnato, espressione di un cuore che desidera appartenere a Dio. Cristo volle nascere povero, vivere povero e morire povero; al tempo stesso, adottò un comportamento adeguato alle diverse circostanze e persone. Il Figlio di Dio, pur potendo possedere tutto, scelse la via dell’umiltà e dell’annientamento (cfr. Fil 2, 6-8). In quella povertà si rivela la bellezza di un cuore libero e totalmente aperto alla volontà di Dio Padre.\n\nI santi, in maniere molto varie, sono testimoni di questa realtà. Essi scoprirono nella povertà non una perdita, ma una pienezza. Infatti, l’anima che si distacca dai legami disordinati inizia a sperimentare una libertà nuova: la libertà dell'amore. « Dinanzi al desiderio di avere Dio come compagno di strada, le ricchezze vengono ridimensionate, perché si scopre il vero tesoro di cui abbiamo realmente necessità» (Leone XIV, Messaggio, 16-XI-2025).\n\nLe manifestazioni concrete della virtù della povertà possono dipendere da varie circostanze. Ciò che per una persona è necessario o molto conveniente, per un'altra sarebbe superfluo; ciò che per una medesima persona è necessario in una determinata situazione, può cessare di esserlo più avanti. D’altra parte, salvo in casi evidenti, la distinzione, qui e ora, tra necessario, conveniente e superfluo richiede qualcosa di più di un criterio esterno: serve una coscienza formata, prudenza e un proposito sincero di vivere la povertà, che include saper chiedere consiglio quando non si vede con chiarezza se una spesa o una decisione sono realmente necessari.\n\nQuando la virtù, lo spirito di povertà, mette veramente radici nella nostra vita, il cuore diventa leggero e, con la grazia divina, si eleva più facilmente alla contemplazione. L’anima impara a riconoscere meglio i tocchi soavi e delicati dello Spirito Santo. Così, in mezzo alle occupazioni ordinarie, si inizia a vivere con una pace e una gioia che il mondo non può dare (cfr. Gv 14,27). È la gioia silenziosa di sapersi abitati dall'amore di Dio; un amore che penetra nella nostra debolezza, la illumina e poco a poco ci va trasformando dall’interno, per identificarci con Cristo.\n\nD’altro canto, non possiamo ignorare che in molti ambienti è diffusa una mentalità che tende a identificare la felicità con il benessere materiale e il piacere. Per contro, sappiamo bene che la nostra vocazione non consiste nel fuggire dal mondo, ma nell’amarlo, collaborando a trasformarlo dall’interno. Tuttavia, per riuscirci dobbiamo essere anime contemplative, come ci diceva san Josemaría: «La chiamata divina ha uno scopo molto preciso: collocarti in tutti i crocevia del mondo, restando al contempo ben unito a Dio» (In dialogo con il Signore, L’orazione dei figli di Dio, 5b).\n\nAllora, potremo essere la terra buona di cui parla Gesù nella parabola del seminatore, quella che permette alla parola di Dio di produrre frutti buoni nella nostra vita: una maggiore libertà interiore, una gioia più sobria e profonda, una fiducia più sincera in Dio e uno sguardo più attento ai bisogni degli altri. Ma se il seme è circondato dalle spine, dalle eccessive preoccupazioni materiali e dalla brama delle ricchezze, rimane sterile: si perde libertà interiore, si diventa meno disponibile per Dio e per gli altri e si finisce per riporre la speranza in sicurezze che non possono saziare il cuore.\n\nImpegniamoci a evitare con decisione, nelle cose grandi e in quelle piccole, che la cultura materialista soffochi la terra buona del nostro cuore e dei nostri ambienti (cfr. Mt 13,22). Quando la povertà viene trascurata, inevitabilmente tende a spegnersi il desiderio di contribuire affinché l'amore di Dio metta radici in altre anime. San Josemaría collegava questa virtù in modo molto diretto con l’anelito apostolico: «Distaccati dai beni del mondo. Ama e pratica la povertà di spirito: contentati di quello che basta per trascorrere la vita con sobrietà e temperanza. Altrimenti, non sarai mai un apostolo» (Cammino, n. 631).\n\nDietro la mancanza di zelo apostolico è facile che ci sia una vita sregolata che va in cerca di soddisfazioni che addormentano l’anima. Con nostro Padre, del quale celebreremo la festa in questo mese, vi incoraggio a fare ognuno personalmente, se necessario, un passo avanti in questo ambito di conversione. Senza dubbio, ne nascerà un amore più attento per il Signore che ci permetterà di portarlo più efficacemente al mondo.\n\nMettiamo questo desiderio nelle mani di Maria, nostra Madre, perché ci insegni a riscoprire continuamente la bellezza di una vita povera e tutta consacrata all’amore di Dio.\n\nRestiamo molto uniti nella preghiera per il Santo Padre e per le sue intenzioni, ora, concretamente, per l’efficace diffusione della sua prima enciclica e per i frutti del suo viaggio apostolico in Spagna.\n\nCon grandissimo affetto vi benedice\n\nvostro Padre\n\nRoma, 14 giugno 2026\n\nDal PrelatoDall'Opus DeiLettere e messaggi del PrelatoMessaggi del PrelatoMons. Fernando OcárizPovertàTema: PovertàUltime"
+        },
+        "nl": {
+          "titulo": "Bericht van de Prelaat (14 juni 2026)",
+          "fecha": "2026-06-14",
+          "contenido": "Mijn geliefde dochters en zonen, moge Jezus jullie behoeden!\n\nMet deze boodschap wil ik jullie uitnodigen om dieper stil te staan bij enkele aspecten van de deugd van de armoede, waarin de bonus odor Christi — de goede geur van Christus — schittert waarover de heilige Paulus spreekt (vgl. 2 Kor. 2,15).\n\nDe heilige Jozefmaria verwees vaak naar deze deugd. Voor hem was armoede niet alleen een kwestie van uiterlijke onthechting, maar vooral een vorm van liefde die Christus ons heeft voorgeleefd: de uitdrukking van een hart dat ernaar verlangt geheel aan God toe te behoren. Christus wilde arm geboren worden, arm leven en arm sterven. Tegelijkertijd handelde Hij steeds op een wijze die paste bij de omstandigheden en de mensen die Hij ontmoette. De Zoon van God, die alles had kunnen bezitten, koos vrijwillig de weg van nederigheid en zelfontlediging (vgl. Fil. 2,6-8). Juist in die armoede openbaart zich de schoonheid van een hart dat vrij is en volledig openstaat voor de wil van God de Vader.\n\nOok de heiligen getuigen ieder op hun eigen wijze van deze werkelijkheid. Zij ontdekten in de armoede geen verlies, maar een volheid. Wie zich losmaakt van ongeordende gehechtheden, ervaart een nieuwe vrijheid: de vrijheid van de liefde. Zoals paus Leo XIV schrijft: „Wanneer het verlangen groeit om God als reisgenoot op de levensweg te hebben, verliezen rijkdommen hun absolute betekenis, omdat men de ware schat ontdekt waar je werkelijk behoefte aan hebt.” (Boodschap voor de Werelddag van de Armen, 16 november 2025).\n\nDe concrete uitwerking van deze deugd verschilt naargelang de omstandigheden. Wat voor de ene persoon noodzakelijk of zeer wenselijk is, kan voor een ander overbodig zijn. Ook voor dezelfde persoon kunnen de vereisten van een bepaalde levensfase na verloop van tijd veranderen. Daarom vraagt het onderscheiden tussen wat noodzakelijk, wenselijk of overbodig is, behalve in evidente gevallen, meer dan een louter extern criterium. Het vereist een gevormd geweten, prudentie en een oprechte bereidheid om arm te leven. Daaronder valt ook de nederigheid om raad te vragen wanneer niet duidelijk is of een bepaalde uitgave of beslissing werkelijk passend is.\n\nWanneer de geest van armoede werkelijk wortel schiet in ons leven, wordt het hart lichter en stijgt het, gedragen door Gods genade, gemakkelijker op tot contemplatie. We leren de zachte ingevingen van de Heilige Geest beter herkennen en ervaren, midden in de gewone bezigheden van elke dag, een vrede en vreugde die de wereld niet kan schenken (vgl. Joh. 14,27). Het is de stille vreugde van het besef dat wij bewoond worden door Gods liefde: een liefde die ook onze zwakheid binnentreedt, haar verlicht en ons geleidelijk van binnenuit omvormt naar het beeld van Jezus Christus.\n\nTegelijk mogen we niet voorbijgaan aan de mentaliteit die in veel kringen heerst en geluk vereenzelvigt met materieel welzijn en genot. Onze roeping is niet om de wereld te ontvluchten, maar om haar lief te hebben en van binnenuit te vernieuwen. Daartoe moeten wij echter, zoals de heilige Jozefmaria ons voorhield, contemplatieve zielen zijn: „De goddelijke roeping heeft een heel concreet doel: je op alle kruispunten van de aarde te plaatsen, terwijl je stevig in God verankerd bent” (In dialoog met de Heer, nr. 11).\n\nAlleen zo kunnen wij de goede aarde zijn waarover Jezus spreekt in de gelijkenis van de zaaier, zodat het woord van God rijke vruchten draagt in ons leven: grotere innerlijke vrijheid, een eenvoudiger en dieper geluk, een sterker vertrouwen in God en een aandachtiger oog voor de noden van anderen. Wanneer het zaad echter wordt verstikt door de doornen van buitensporige zorgen en de drang naar bezit, blijft het zonder vrucht. Dan verliest de mens zijn innerlijke vrijheid, wordt hij minder beschikbaar voor God en voor anderen, en gaat hij zijn hoop stellen op zekerheden die het hart uiteindelijk niet kunnen vervullen.\n\nLaten wij daarom vastberaden proberen te voorkomen dat de materialistische cultuur — in grote én kleine dingen — de goede aarde van ons hart en van de plaatsen waar wij leven verstikt (vgl. Mt. 13,22). Waar de geest van armoede verwaarloosd wordt, verzwakt onvermijdelijk ook het verlangen om eraan mee te werken dat Gods liefde wortel schiet in andere zielen. Daarom verbond de heilige Jozefmaria deze deugd rechtstreeks met apostolische ijver: „Wees onthecht aan de aardse goederen. - Bemin en beoefen de armoede van geest: stel je tevreden met wat je nodig hebt voor een sober en eenvoudig leven. - Anders word je nooit een apostel. (De Weg, nr. 631).\n\nAchter een gebrek aan apostolische ijver gaat vaak een leven schuil dat uit evenwicht is geraakt door allerlei compensaties die de ziel verdoven. Samen met onze Vader, wiens feest wij deze maand vieren, moedig ik jullie aan om, indien nodig, op dit punt een concrete stap van bekering te zetten. Dat zal ongetwijfeld leiden tot een fijngevoeligere liefde voor onze Heer en ons helpen Hem vruchtbaarder naar de wereld te brengen.\n\nLaten wij dit verlangen toevertrouwen aan onze Moeder, opdat zij ons steeds opnieuw de schoonheid leert ontdekken van een arm leven dat geheel aan Gods liefde is overgegeven.\n\nLaten wij ook nauw verbonden blijven in het gebed voor de Heilige Vader en zijn intenties, in het bijzonder voor de vruchtbare verspreiding van zijn eerste encycliek en voor de vruchten van zijn apostolische reis naar Spanje.\n\nMet al mijn genegenheid zegen ik jullie,\n\njullie Vader\n\nRome, 14 juni 2026\n\nFernando Ocárizpastoraal berichtpastorale brieven en berichtenbericht van de prelaat"
+        }
+      }
+    }
+  ]
+}
